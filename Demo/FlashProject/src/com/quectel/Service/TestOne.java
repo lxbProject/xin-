@@ -11,6 +11,14 @@ import java.util.List;
  */
 public class TestOne {
 
+    /**
+     *
+     * @author zane.lu
+     * @date 2022/5/29 16:43
+     * @param [args]
+     * @return void
+     * @Version1.0
+     **/
     public static void main(String[] args) {
         List<Student> studentList = new ArrayList<>();
         studentList.add(new Student("硝化",25,89.6));
@@ -18,5 +26,6 @@ public class TestOne {
         studentList.add(new Student("小李",17,26.6));
         studentList.add(new Student("萨福克两千",21,55.6));
         studentList.stream().filter(s -> s.getScore()>=80).forEach(s -> System.out.println(s));
+
     }
 }
