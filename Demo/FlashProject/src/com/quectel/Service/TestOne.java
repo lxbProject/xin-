@@ -26,6 +26,6 @@ public class TestOne {
         studentList.add(new Student("小李",17,26.6));
         studentList.add(new Student("萨福克两千",21,55.6));
         studentList.stream().filter(s -> s.getScore()>=80).forEach(s -> System.out.println(s));
-
+        System.out.println("解决derOne分支Bug");
     }
 }
