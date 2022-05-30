@@ -28,5 +28,6 @@ public class TestOne {
         studentList.stream().filter(s -> s.getScore()>=80).forEach(s -> System.out.println(s));
         //sum提交至主分区
         System.out.println("解决derOne分支Bug");
+        System.out.println("devTest新功能...");
     }
 }

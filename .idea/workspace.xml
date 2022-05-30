@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de345539-f9dc-4955-b206-f6ab0843978c" name="Default Changelist" comment="2022-5-29条件aster分支Bug解决" />
+    <list default="true" id="de345539-f9dc-4955-b206-f6ab0843978c" name="Default Changelist" comment="2022-5-29条件合并主分支Bug解决">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/FlashProject/src/com/quectel/Service/TestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/FlashProject/src/com/quectel/Service/TestOne.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev0ne" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653816027784</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2022-5-29条件合并主分支Bug解决">
+      <created>1653816152528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653816152528</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +114,7 @@
     <MESSAGE value="2022-5-29条件devOne分支" />
     <MESSAGE value="2022-5-29条件devOnefuben分支Bug解决" />
     <MESSAGE value="2022-5-29条件aster分支Bug解决" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-5-29条件aster分支Bug解决" />
+    <MESSAGE value="2022-5-29条件合并主分支Bug解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-5-29条件合并主分支Bug解决" />
   </component>
 </project>
