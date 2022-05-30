@@ -29,5 +29,7 @@ public class TestOne {
         //sum提交至主分区
         System.out.println("解决derOne分支Bug");
         //新功能添加
+        System.out.println("devTest新功能...");
+        System.out.println("devTestBug解决...");
     }
 }
